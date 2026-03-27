@@ -1,4 +1,4 @@
-Bagunçado:
+//Bagunçado:
 #include <stdio.h>
 
 int main() {
@@ -38,7 +38,7 @@ int main() {
 //teria que alterar um por um, o que no futuro poderia causar um codigo espaguete
 }
 
-Organizado:
+//Organizado:
 
 #include <stdio.h>
 
